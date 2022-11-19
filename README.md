@@ -5,6 +5,7 @@
 
 ###**🌊Efficient Water Quality Analysis And Prediction using Machine Learning💧**
 ![INDEX](https://user-images.githubusercontent.com/114166868/202853176-7bdb47ff-640c-4018-81fe-2da9bb3da2b4.png)
+
 #Category:
 💻Data Science
 #👨‍🎓Skills Required:
