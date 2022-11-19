@@ -3,7 +3,7 @@
 
 ![water-fall-water](https://user-images.githubusercontent.com/114166868/202853131-f27dbd78-963f-45a3-a336-fb6ed6668c23.gif)
 
-###**🌊Efficient Water Quality Analysis And Prediction using Machine Learning💧**
+###***🌊Efficient Water Quality Analysis And Prediction using Machine Learning💧**
 ![INDEX](https://user-images.githubusercontent.com/114166868/202853176-7bdb47ff-640c-4018-81fe-2da9bb3da2b4.png)
 
 #Category:
